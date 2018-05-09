@@ -1,0 +1,19 @@
+.header__row {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.card-item {
+    margin-top: 25px;
+}
+
+.slider {
+    margin-top: 40px;
+}
+
+.f-nav {
+    margin-top: 50px;
+    justify-content: center
+}
