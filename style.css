@@ -1,8 +1,8 @@
-.header__row {
+.header__wrapper .header__row {
     margin-top: 15px;
     margin-bottom: 30px;
-    margin-right: 0 !important;
-    margin-left: 0 !important;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 .card-item {
